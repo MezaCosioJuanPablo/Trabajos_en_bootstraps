@@ -1,0 +1,22 @@
+body {
+  padding-top: 56px; /* Ajuste para navbar fija en la parte superior */
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo para el encabezado de la página */
+.header {
+  background-color: rgb(255, 0, 149);
+  color: #fff;
+  padding: 20px 0;
+}
+
+/* Estilo para el contenido principal */
+.main-content {
+  padding: 20px;
+}
+
+/* Estilo para el pie de página */
+.footer {
+  background-color: rgb(0, 255, 0);
+  padding: 20px 0;
+}
